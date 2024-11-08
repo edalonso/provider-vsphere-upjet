@@ -1,6 +1,6 @@
 apiVersion: pkg.crossplane.io/v1
 kind: Provider
 metadata:
-  name: upjet-provider-template
+  name: provider-vsphere-upjet
 spec:
-  package: upbound/upjet-provider-template:v0.1.0
+  package: edalonso/provider-vsphere-upjet:v0.1.0

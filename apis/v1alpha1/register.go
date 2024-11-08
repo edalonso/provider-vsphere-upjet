@@ -13,7 +13,7 @@ import (
 
 // Package type metadata.
 const (
-	Group   = "template.upbound.io"
+	Group   = "vsphere-upjet.disashop.com"
 	Version = "v1alpha1"
 )
 
